@@ -21,3 +21,14 @@ This project leverages **multiple classification algorithms** to provide accurat
    ```bash
    git clone https://github.com/AnubhavJain/DyCKD.git
    cd DyCKD
+   ```  
+2️⃣ Install dependencies:  
+   ```bash
+   pip install -r requirements.txt
+   ```  
+3️⃣ Run the Jupyter Notebook or Python script to train the model.  
+
+## 📧 Contact  
+For any queries, feel free to reach out:  
+📌 **GitHub**: [AnubhavJain](https://github.com/AnubhavJain)  
+
